@@ -27526,7 +27526,9 @@ Actions
 
 Slam. Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 
 
-+ 4) Bludgeoning damage.  Animals 
++ 4) Bludgeoning damage.
+
+Animals 
 
 Allosaurus 
 
@@ -29244,7 +29246,7 @@ Actions
 
 Sting. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing  damage plus 3 (1d6) Poison damage. 
 
- Seahorse 
+Seahorse 
 
 Tiny Beast, Unaligned  AC 12  HP 1 (1d4 − 1)  Speed 5 ft., Swim 20 ft.  MOD SAVE  Initiative +1 (11)  MOD SAVE MOD SAVE 
 
